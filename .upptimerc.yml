@@ -19,6 +19,7 @@ sites:
     url: https://jenkins.idempiere.org
   - name: Mattermost
     url: https://mattermost.idempiere.org
+    icon: https://mattermost.com/wp-content/themes/mattermostv3/favicon-32x32.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -27,8 +28,8 @@ status-website:
   baseUrl: /idempiere-status-page
   logoUrl: https://avatars.githubusercontent.com/u/1271033
   name: iDempiere Status Page
-  theme: ocean
-  introTitle: "iDempiere Status Page"
+  theme: light
+  # introTitle: "iDempiere Status Page"
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
