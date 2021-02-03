@@ -1,32 +1,35 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: anozimada # Your GitHub username
+repo: idempiere-status-page # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: iDempiere Website
+    url: https://www.idempiere.org
+  - name: iDempiere Wiki
+    url: https://wiki.idempiere.org
+    icon: https://www.wikipedia.org/static/favicon/wikipedia.ico
+  - name: Demo Stable
+    url: https://demo.globalqss.com/webui/
+  - name: Demo Daily Build with PostgreSQL
+    url: https://test.idempiere.org/webui/
+  - name: Demo Daily Build with Oracle
+    url: https://test-oracle.idempiere.org/webui/
+  - name: Jenkins
+    url: https://jenkins.idempiere.org
+  - name: Mattermost
+    url: https://mattermost.idempiere.org
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: status.idempiere.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  baseUrl: /idempiere-status-page
+  logoUrl: https://avatars.githubusercontent.com/u/1271033
+  name: iDempiere Status Page
+  theme: ocean
+  introTitle: "iDempiere Status Page"
+  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
