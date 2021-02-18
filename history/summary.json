@@ -58,18 +58,20 @@
     "url": "https://test.idempiere.org/webui/",
     "icon": "https://favicons.githubusercontent.com/test.idempiere.org",
     "slug": "demo-daily-build-with-postgre-sql",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 494,
-    "timeDay": 651,
-    "timeWeek": 507,
-    "timeMonth": 494,
-    "timeYear": 494,
-    "dailyMinutesDown": {}
+    "time": 487,
+    "timeDay": 484,
+    "timeWeek": 479,
+    "timeMonth": 487,
+    "timeYear": 487,
+    "dailyMinutesDown": {
+      "2021-02-18": 0
+    }
   },
   {
     "name": "Demo Daily Build with Oracle",
