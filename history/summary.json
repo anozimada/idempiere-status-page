@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 824,
-    "timeDay": 896,
-    "timeWeek": 867,
+    "timeDay": 822,
+    "timeWeek": 835,
     "timeMonth": 824,
     "timeYear": 824,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 456,
-    "timeDay": 578,
-    "timeWeek": 489,
-    "timeMonth": 456,
-    "timeYear": 456,
+    "time": 455,
+    "timeDay": 432,
+    "timeWeek": 469,
+    "timeMonth": 455,
+    "timeYear": 455,
     "dailyMinutesDown": {
       "2021-02-20": 24
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 653,
-    "timeDay": 763,
-    "timeWeek": 696,
-    "timeMonth": 653,
-    "timeYear": 653,
+    "time": 651,
+    "timeDay": 600,
+    "timeWeek": 698,
+    "timeMonth": 651,
+    "timeYear": 651,
     "dailyMinutesDown": {
       "2021-02-20": 24
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 506,
-    "timeDay": 638,
-    "timeWeek": 553,
-    "timeMonth": 506,
-    "timeYear": 506,
+    "time": 504,
+    "timeDay": 447,
+    "timeWeek": 530,
+    "timeMonth": 504,
+    "timeYear": 504,
     "dailyMinutesDown": {}
   },
   {
@@ -81,16 +81,16 @@
     "icon": "https://favicons.githubusercontent.com/test-oracle.idempiere.org",
     "slug": "demo-daily-build-with-oracle",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.73%",
-    "time": 706,
-    "timeDay": 849,
-    "timeWeek": 723,
-    "timeMonth": 706,
-    "timeYear": 706,
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
+    "time": 703,
+    "timeDay": 634,
+    "timeWeek": 702,
+    "timeMonth": 703,
+    "timeYear": 703,
     "dailyMinutesDown": {
       "2021-02-22": 64,
       "2021-02-06": 18
@@ -107,11 +107,11 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 595,
-    "timeDay": 699,
-    "timeWeek": 634,
-    "timeMonth": 595,
-    "timeYear": 595,
+    "time": 597,
+    "timeDay": 630,
+    "timeWeek": 626,
+    "timeMonth": 597,
+    "timeYear": 597,
     "dailyMinutesDown": {
       "2021-02-20": 24
     }
@@ -127,11 +127,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 278,
-    "timeWeek": 149,
-    "timeMonth": 147,
-    "timeYear": 147,
+    "time": 149,
+    "timeDay": 189,
+    "timeWeek": 153,
+    "timeMonth": 149,
+    "timeYear": 149,
     "dailyMinutesDown": {}
   }
 ]
