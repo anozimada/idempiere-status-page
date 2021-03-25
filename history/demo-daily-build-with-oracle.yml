@@ -1,7 +1,7 @@
 url: https://test-oracle.idempiere.org/webui/
-status: up
-code: 200
-responseTime: 641
-lastUpdated: 2021-03-24T23:28:03.184Z
+status: down
+code: 502
+responseTime: 468
+lastUpdated: 2021-03-25T19:59:03.808Z
 startTime: Wed Feb 03 2021 06:16:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
