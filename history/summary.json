@@ -42,18 +42,19 @@
     "url": "https://demo.globalqss.com/webui/",
     "icon": "https://favicons.githubusercontent.com/demo.globalqss.com",
     "slug": "demo-stable",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 653,
     "timeDay": 901,
     "timeWeek": 767,
     "timeMonth": 676,
     "timeYear": 653,
     "dailyMinutesDown": {
+      "2021-04-23": 0,
       "2021-02-25": 27,
       "2021-02-20": 24
     }
@@ -118,7 +119,7 @@
     "time": 392,
     "timeDay": 441,
     "timeWeek": 345,
-    "timeMonth": 305,
+    "timeMonth": 239,
     "timeYear": 392,
     "dailyMinutesDown": {
       "2021-03-04": 244,
