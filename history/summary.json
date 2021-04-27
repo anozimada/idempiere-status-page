@@ -4,9 +4,9 @@
     "url": "https://www.idempiere.org",
     "icon": "https://favicons.githubusercontent.com/www.idempiere.org",
     "slug": "i-dempiere-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 871,
     "timeMonth": 862,
     "timeYear": 837,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-27": 0
+    }
   },
   {
     "name": "iDempiere Wiki",
@@ -110,11 +112,11 @@
     "icon": "https://favicons.githubusercontent.com/jenkins.idempiere.org",
     "slug": "jenkins",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.64%",
+    "uptimeYear": "99.65%",
     "time": 383,
     "timeDay": 193,
     "timeWeek": 241,
