@@ -1,7 +1,7 @@
 url: https://test.idempiere.org/webui/
-status: up
-code: 200
-responseTime: 127
-lastUpdated: 2021-10-19T23:18:33.902Z
+status: down
+code: 502
+responseTime: 92
+lastUpdated: 2021-10-20T08:22:03.642Z
 startTime: Wed Feb 03 2021 06:16:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
